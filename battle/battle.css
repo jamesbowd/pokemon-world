@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+
+.container {
+  margin: 10px auto;
+  height: 95vh;
+  width: 95vw;
+  border: 1px solid black;
+}
